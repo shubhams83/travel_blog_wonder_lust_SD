@@ -3,7 +3,7 @@
 This Wonder Lust Self-Development Website is a small project using HTML, CSS, JavaScript, Django Rest API & React_&_Redux, Heroku
 
 #ScreenShots
-![Screenshot 2022-02-10 at 1 11 02 PM](https://user-images.githubusercontent.com/97092725/153361593-df748fed-887c-47fe-bffa-0128897bff32.png)
+![Screenshot 2022-02-10 at 1 11 02 PM]
 
 #Technologies used
 
